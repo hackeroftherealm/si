@@ -38,13 +38,13 @@
 	{
 		"name": "Discord",
 		"url": "https://discord.com/",
-		"img": "/assets/imgs/a/Discord.webp",
+		"img": "/assets/imgs/a/Discord.svg",
 		"categories": ["all", "social", "messaging", "media"]
 	},
 	{
 		"name": "Discord | Login",
 		"url": "https://discord.com/login",
-		"img": "/assets/imgs/a/Discord.webp",
+		"img": "/assets/imgs/a/Discord_Login.svg",
 		"categories": ["all", "social", "messaging", "media"]
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "Telegram",
 		"url": "https://web.telegram.org/",
-		"img": "/assets/imgs/a/Telegram.webp",
+		"img": "/assets/imgs/a/Telegram.svg",
 		"categories": ["all", "messaging", "media", "social"]
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "TikTok",
 		"url": "https://www.tiktok.com/explore",
-		"img": "/assets/imgs/a/TikTok.webp",
+		"img": "/assets/imgs/a/TikTok.svg",
 		"categories": ["all", "media", "social"]
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "Twitch",
 		"url": "https://www.twitch.tv/",
-		"img": "/assets/imgs/a/Twitch.webp",
+		"img": "/assets/imgs/a/Twitch.svg",
 		"categories": ["all", "social", "media", "game"]
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "VS Code",
 		"url": "https://vscode.dev/",
-		"img": "/assets/imgs/a/VS_Code.webp",
+		"img": "/assets/imgs/a/VS_Code.svg",
 		"categories": ["all", "media"]
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "Character.AI",
 		"url": "https://beta.character.ai",
-		"img": "/assets/imgs/a/Character_AI.webp",
+		"img": "/assets/imgs/a/Character_AI.svg",
 		"categories": ["all", "ai", "popular"]
 	},
 	{
 		"name": "Snapchat",
 		"url": "https://www.snapchat.com",
-		"img": "/assets/imgs/a/Snapchat.webp",
+		"img": "/assets/imgs/a/Snapchat.png",
 		"categories": ["all", "media", "messaging", "popular"]
 	},
 	{
